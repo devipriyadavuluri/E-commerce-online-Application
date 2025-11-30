@@ -1,0 +1,1 @@
+A Java-based e-commerce application that allows users to browse products, manage their shopping cart, and place orders. The application uses MySQL for data storage and JDBC for database connectivity, providing a robust backend for product management and transactions.
